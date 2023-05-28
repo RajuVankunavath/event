@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.main-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.events-container {
+  background-color: #64748b;
+  background-color: cover;
+  width: 100%;
+}
+.event-list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  /* justify-content: center; */
+  padding-left: 0px;
+  flex-wrap: wrap;
+  margin-top: 0px;
+  width: 100%;
+}
+.heading {
+  margin-top: 0px;
+  text-align: start;
+  color: aliceblue;
+}

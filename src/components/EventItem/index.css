@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.list-items-container {
+  list-style-type: none;
+  width: 400px;
+  margin: 10px;
+}
+.imageUrl {
+  width: 400px;
+}
+.location {
+  color: white;
+}
+.button {
+  outline: none;
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+}
+.active {
+  border: 2px solid #2dd4bf;
+  border-radius: 10px;
+}
